@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![NEIS Banner](Background/Background%201.png)
-
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/data-analyst-harsh-soni/National-Enrollment-Intelligence-System-NEIS-)
 [![Python](https://img.shields.io/badge/Python-Data%20Cleaning-3776AB?style=for-the-badge&logo=python&logoColor=white)](Python/Cleaning_Code.ipynb)
 [![SQL](https://img.shields.io/badge/SQL-Data%20Import-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](SQL/importing%20code.sql)
@@ -29,28 +27,25 @@ The **National Enrollment Intelligence System (NEIS)** is an end-to-end data ana
 ## 📊 Dashboard Preview
 
 ### 🏠 Welcome Screen
-![Welcome](Background/Background%201.png)
+![Welcome](Dashboard/Dashboard%201.png)
 
 ### 📈 Executive Overview — National Aadhaar Enrollment
-![Dashboard 1](Dashboard/Dashboard%201.png)
+![Dashboard 1](Dashboard/Dashboard%202.png)
 
 ### ⚙️ Operational Intelligence
-![Dashboard 2](Dashboard/Dashboard%202.png)
+![Dashboard 2](Dashboard/Dashboard%203.png)
 
 ### 👦 Youth Participation Analytics
-![Dashboard 3](Dashboard/Dashboard%203.png)
+![Dashboard 3](Dashboard/Dashboard%204.png)
 
 ### 🗺️ Youth Enrollment Geographic Insights
-![Dashboard 4](Dashboard/Dashboard%204.png)
+![Dashboard 4](Dashboard/Dashboard%205.png)
 
 ### 💡 Insights Dashboard
-![Dashboard 5](Dashboard/Dashboard%205.png)
+![Dashboard 5](Dashboard/Dashboard%206.png)
 
 ### 🏆 Performance & Efficiency
-![Dashboard 6](Dashboard/Dashboard%206.png)
-
-### 📋 Detailed State View
-![Dashboard 7](Dashboard/Dashboard%207.png)
+![Dashboard 6](Dashboard/Dashboard%207.png)
 
 ---
 
